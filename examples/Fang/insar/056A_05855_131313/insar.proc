@@ -1,0 +1,20 @@
+
+#orbital fitting parameters
+orbdegree:      2
+
+#atm fitting parameters
+atmdegree:      1
+
+#e/n/u contribution to the insar los rate
+inv_e:     1
+inv_n:     1
+inv_u:     1
+
+#constant 1-sigma uncertainty of the rate map
+errormap:  0
+
+#incidence file
+incfile:   /dev/null
+
+#dem file
+demfile:   /dev/null
